@@ -5,6 +5,10 @@ navbar:
   right:
     - text: "Experience"
       href: experience.html
+    - text: "Homework"
+      href: Problem-2-code.html
+    - text: "Plot"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<yz4185@cumc.columbia.edu>
     - icon: fa-github fa-lg
