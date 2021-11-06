@@ -7,7 +7,6 @@ output:
     source_code: embeded
 ---
 
-Install packages first.
 ```{r setup, include=FALSE}
 library(tidyverse)
 library(p8105.datasets)

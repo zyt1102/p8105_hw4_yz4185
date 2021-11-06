@@ -15,4 +15,4 @@ navbar:
       href: https://github.com/zyt1102
 output:
   html_document:
-    theme: yeti
+    theme: cerulean
